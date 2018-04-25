@@ -1,8 +1,8 @@
 # O que encontro aqui?
 
-- Resolução de exercícios de Python.
+- Resolução de exercícios Python.
 
-- Cada pasta contém exercícios da(o):
+- Cada pasta contém exercícios do(a):
   
   - [alura](https://www.alura.com.br/cursos-online-programacao/python)
   - [comunidadepython](https://wiki.python.org.br/ListaDeExercicios)
