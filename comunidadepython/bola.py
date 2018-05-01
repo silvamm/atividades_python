@@ -1,7 +1,8 @@
-#Crie uma classe que modele uma bola:
-#Atributos: Cor, circunferência, material
-#Métodos: trocaCor e mostraCor
-
+'''
+Crie uma classe que modele uma bola:
+Atributos: Cor, circunferência, material
+Métodos: trocaCor e mostraCor
+'''
 
 class Bola:
     #Atributos:

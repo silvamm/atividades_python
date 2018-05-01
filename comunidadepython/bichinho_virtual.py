@@ -1,10 +1,10 @@
-# Classe Bichinho Virtual:
-# Crie uma classe que modele um Tamagushi
-# Atributos: Nome, Fome, Saúde e Idade.
-# Métodos: Alterar nome, fome, saúde, idade.
-# Retornar nome, fome, saúde, idade.
-# Método Humor: Combinação entre Fome e saúde.
-
+'''
+Classe Bichinho Virtual: Crie uma classe que modele um Tamagushi.
+Atributos: Nome, Fome, Saúde e Idade.
+Métodos: Alterar nome, fome, saúde, idade.
+Retornar nome, fome, saúde, idade.
+Método Humor: Combinação entre Fome e saúde.
+'''
 
 
 class Tamagushi:
