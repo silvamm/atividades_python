@@ -1,7 +1,6 @@
 # O que encontro aqui?
 
 - Resolução de exercícios Python.
-- Resolução de exercícios Java.
 
 - Há pastas que contém exercícios do(a):
   
